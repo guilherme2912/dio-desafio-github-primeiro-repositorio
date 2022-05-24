@@ -1,0 +1,19 @@
+Anotações para clonar, adicionar, comitar projetos no GitHub.
+
+- git clone https://github.com/guilherme2912/dio-desafio-github-primeiro-repositorio.git
+	Esse comendo você pega o projeto no seu GitHub e trás ele para sua maquina.
+
+- git add * / .
+	Comando para adicionar os arquivos alterados para serem comitados.
+
+- git commit -m "Descrição a ser comentado das alterações"
+	Comando para comitar o seu projeto as alterações realizadas.
+
+- git push origin main
+	Comando para empurrar ou enviar o seu projeto para o GitHub.
+
+- git pull origin main
+	Comando para trazer o projeto do GitHub para sua maquina.
+
+- git status
+	Comando que apresenta as informações se o projeto foi alterado, removido...
